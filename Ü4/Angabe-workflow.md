@@ -1,0 +1,2 @@
+Aufgabenstellung einfaches Beispiel:
+Später wird dieser Workflow mit der Erstellung eines Geschäftspartners in der Anwendung verknüpft, die den Workflow auslöst. Wenn anschließend ein Geschäftspartner angelegt wird, informiert der Workflow einen Benutzer, dass ein neuer Geschäftspartner angelegt wurde, und bietet dem Benutzer die Option, den Geschäftspartner anzuzeigen und zu überprüfen. Wenn dieser die Überprüfung nicht vornimmt, wird eine Mail an einen anderen Benutzer verschickt.
